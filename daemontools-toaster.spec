@@ -256,7 +256,7 @@ done
 * Fri Aug 16 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.7.0.76-1
 - New version: 0.7
 - Better macros to detect Mandrake Release
-* Thu Aug 13 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.6.0.76-1
+* Tue Aug 13 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.6.0.76-1
 - New version: 0.6 toaster.
 * Mon Aug 12 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.5.0.76-1
 - Doc package is standalone (someone does not ask for man pages)
@@ -264,7 +264,7 @@ done
 - New version: 0.5 toaster.
 * Thu Aug 08 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.4.0.76-1
 - Rebuild against 0.4 toaster
-* Tue Aug 02 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.0.76-3
+* Fri Aug 02 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.0.76-3
 - No more install -s (creates problems)
 * Tue Jul 30 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.0.76-2
 - Now packages have got 'no sex': you can rebuild them with command line
